@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="button_dice">掷色子</string>
+    <string name="ok_10">还行</string>
+</resources>
